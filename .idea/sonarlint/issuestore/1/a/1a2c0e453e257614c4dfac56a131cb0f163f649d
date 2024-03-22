@@ -1,0 +1,8 @@
+
+P
+java:S1118
+":Add a private constructor to hide the implicit public one.(›όβ£
+C
+java:S1128"(Remove this unused import 'lombok.Data'.(χν«ÿÿÿÿÿ
+l
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.Configuration'.(¬²Ϊδώÿÿÿÿ
